@@ -30,3 +30,16 @@ Wrote the logic and tested the logic for the following chips in the given order 
   <li>ALU without status outputs</li>
   <li>Complete ALU with status outputs</li>
 </ul>
+
+# Week 3
+Wrote the logic and tested the logic for the following sequential chips in the given order and built the memory unit for the HACK ALU :-
+<ul>
+  <li>Bit (1 bit register)</li>
+  <li>Register (16 bit register)</li>
+  <li>RAM 8 (Memory of 8 registers)</li>
+  <li>RAM 64 (Memory of 64 registers)</li>
+  <li>RAM 512 (Memory of 512 registers)</li>
+  <li>RAM 4K (Memory of 4096 registers)</li>
+  <li>RAM 16K (Memory of 16,384 registers)</li>
+  <li>Program Counter</li>
+</ul>
