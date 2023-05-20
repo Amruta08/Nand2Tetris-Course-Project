@@ -32,7 +32,7 @@ Wrote the logic and tested the logic for the following chips in the given order 
 </ul>
 
 # Week 3
-Wrote the logic and tested the logic for the following sequential chips in the given order and built the memory unit for the HACK ALU :-
+Wrote the logic and tested the logic for the following sequential chips in the given order and built the memory unit for the HACK Computer :-
 <ul>
   <li>Bit (1 bit register)</li>
   <li>Register (16 bit register)</li>
